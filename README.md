@@ -47,7 +47,7 @@ Made in September of 2023. My most recent edit of my friend Calvin Lee. Much bet
 
 <style>
 body {
-  background-image: url('websitebackground.jpg');
+  background-image: url('websitebackground2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
