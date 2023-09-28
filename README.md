@@ -1,8 +1,9 @@
 # ScronkEdits
 Editing by Robin
 ## Who Is Scronk?
- Scronk, otherwise known as Robin Baltazar, is an up-an-coming editor on the scene. Learn more about who he is by following his [Instagram](www.instagram.com/sxronck/)
-<img src="sanfranpic.jpg" alt="picture of scronk" width="300"/>
+ Scronk, otherwise known as Robin Baltazar, is an up-an-coming editor on the scene. Learn more about who he is by following his [Instagram](www.instagram.com/sxronck/)     
+              
+ <img src="sanfranpic.jpg" alt="picture of scronk" width="300"/>
 ## The Inspiration
  Forced to edit videos for school projects, Robin quickly picked up the basics of editing and video making, and began to grow his skills over time. Later motivated by other sick and cool edits on Instagram, Tiktok, and Youtube, Robin was determined to make his own edits, mostly based on his friends.
 ## The Method
@@ -27,6 +28,21 @@ Some edits not included due to school guidelines.
 Made in October of 2022. Not my first video made for school, but probably my first one that a considerable effort was placed into. No music due to time constraints at the time.
          
 <a href="[https://youtu.be/w3ge7G43WHM]"><img src="lordofthefliesproject.png" alt="Lord of the Flies Project" width="200"></a>
+
+#### Julius Caesar English School Project
+Made in January of 2023. Narrative Video, one of my favorites to edit and make.
+
+<a href="[https://youtu.be/tbCFndzRg9o]"><img src="juliuscaesarproject.png" alt="Julius Caesar Project" width="200"></a>
+
+#### Brandon Wong Short Edit
+Made in November of 2022. My first experiment with a short-style edit of my good friend Brandon. Not very good, but I was able to gain experience and knowledge from crafting it.
+
+<a href="[https://youtube.com/shorts/L_IGi_iZRB4?feature=share]"><img src="brandon.jpg" alt="Brandon Wong Edit" width="200"></a>
+
+#### Calvin Lee Short Edit
+Made in September of 2023. My most recent edit of my friend Calvin Lee. Much better than my previous edits, but could still be polished.
+
+<a href="[https://youtu.be/io4BGTXWQ_A]"><img src="calvin.png" alt="Calvin Lee Edit" width="200"></a>
 
 
 <style>
