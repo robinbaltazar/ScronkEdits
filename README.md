@@ -21,5 +21,22 @@ Editing by Robin
 1. Select the song you will use first. Making the edit with the music is very important for making an aesthetically appealing video.
 2. Collect clips with impact, and collect alot of clips.
 3. Make use of transitions and effects to add even more pizazz to your video.
-## The Result
+## The Results
+Some edits not included due to school guidelines.
+#### Lord of the Flies English School Project
+Made in October of 2022. Not my first video made for school, but probably my first one that a considerable effort was placed into. No music due to time constraints at the time.
+         
+<a href="[https://youtu.be/w3ge7G43WHM]"><img src="lordofthefliesproject.png" alt="Lord of the Flies Project" width="200"></a>
+
+
+<style>
+body {
+  background-image: url('websitebackground.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+
  
