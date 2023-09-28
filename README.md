@@ -48,7 +48,7 @@ Made in October of 2022. Not my first video made for school, but probably my fir
 #### Julius Caesar English School Project
 Made in January of 2023. Narrative Video, one of my favorites to edit and make.
 
-<a href="https://youtu.be/tbCFndzRg9o"><img src="juliuscaesarproject.png" alt="Julius Caesar Project" width="200"></a>
+<a href="https://youtu.be/tbCFndzRg9o" target="_blank"><img src="juliuscaesarproject.png" alt="Julius Caesar Project" width="200"></a>
 
 #### Brandon Wong Short Edit
 Made in November of 2022. My first experiment with a short-style edit of my good friend Brandon. Not very good, but I was able to gain experience and knowledge from crafting it.
